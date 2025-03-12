@@ -1,4 +1,6 @@
 # Important
+## Create a .env file containing the groq api key
+### GROQ_API_KEY="paste api key here"
 ## Utilize Ollama Embeddings
 1. **Need to install Ollama**
 2. **pull any model using ollama pull <mistral>**
